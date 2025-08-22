@@ -1,6 +1,6 @@
 # Experiência Prática III — Conecta Comunidade
 
-📄 **Relatório em PDF:** [ADS_Experiencia_Pratica3_Conecta_Comunidade.pdf](./ADS_Experiencia_Pratica3_Conecta_Comunidade.pdf)
+📄 **Relatório em PDF:** [ADS_Experiencia_Pratica3_Conecta_Comunidade.pdf.pdf](https://github.com/user-attachments/files/21943395/ADS_Experiencia_Pratica3_Conecta_Comunidade.pdf.pdf)
 
 ## Sobre o Projeto
 Este repositório faz parte da disciplina de **Análise e Desenvolvimento de Sistemas**.  
