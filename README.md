@@ -1,4 +1,4 @@
-# Experiência Prática III — Conecta Comunidade
+# Experiência Prática — Conecta Comunidade
 
 📄 **Relatório em PDF:** [ADS_Experiencia_Pratica3_Conecta_Comunidade.pdf.pdf](https://github.com/user-attachments/files/21943395/ADS_Experiencia_Pratica3_Conecta_Comunidade.pdf.pdf)
 
